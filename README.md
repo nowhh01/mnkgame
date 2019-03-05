@@ -7,9 +7,9 @@ Abstract board game that two players take turns in placing a mark of their color
 Only mouse input
 
 # Requirements
-.NET Framework 4.7
+C# 7.0 or later<br />
 Windows Forms App
 
 # License
-Licensed under MIT License
+Licensed under MIT License<br />
 https://github.com/nowhh01/mnkgame/blob/master/LICENSE.txt
